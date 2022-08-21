@@ -1,2 +1,1 @@
-# automationTest
-auto
+test + test
