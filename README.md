@@ -1,2 +1,1 @@
-# automationTest
-auto
+create readme.md success
